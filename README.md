@@ -16,11 +16,12 @@
   ##
   
 <div style="display: inline_block"><br>
+<img height="60" width="60" src=https://github.com/ferrazthiago13/ferrazthiago13/blob/main/Robot-framework-logo.png  />  
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-![Logo do Robot Framework]https://github.com/ferrazthiago13/ferrazthiago13/blob/main/Robot-framework-logo.png  
+
           
 </div>   
 
