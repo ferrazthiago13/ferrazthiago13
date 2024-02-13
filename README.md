@@ -2,8 +2,8 @@
 
 - 🏢 Alterdata Software
 - 💻 Quality Assurance
-- 🌱 Estudando Testes Automatizados
-- 😸 Pai de Pet
+
+  
 
 ##
 
